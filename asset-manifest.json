@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ticteo-app/static/css/main.d02b9afd.css",
+    "main.js": "/ticteo-app/static/js/main.9d326b6d.js",
+    "static/js/787.7b6dea5d.chunk.js": "/ticteo-app/static/js/787.7b6dea5d.chunk.js",
+    "index.html": "/ticteo-app/index.html",
+    "main.d02b9afd.css.map": "/ticteo-app/static/css/main.d02b9afd.css.map",
+    "main.9d326b6d.js.map": "/ticteo-app/static/js/main.9d326b6d.js.map",
+    "787.7b6dea5d.chunk.js.map": "/ticteo-app/static/js/787.7b6dea5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d02b9afd.css",
+    "static/js/main.9d326b6d.js"
+  ]
+}
